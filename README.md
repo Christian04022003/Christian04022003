@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Christian and I'm a 9th-semester Software Engineering student, from Coatzacoalcos, Veracruz, Mexico</h2>
+<h2 align="left">Hi 👋! My name is Christian and I'm a Software Engineering, from Coatzacoalcos, Veracruz, Mexico</h2>
 
 ###
 
