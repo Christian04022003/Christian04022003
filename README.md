@@ -1,60 +1,69 @@
-<h2 align="left">Hi 👋! My name is Christian and I'm a Software Engineering, from Coatzacoalcos, Veracruz, Mexico</h2>
+<h1 align="left">Hi 👋! I'm Christian Rodríguez</h1>
 
-###
+<h3 align="left">Software Engineer · QA Engineer · Full-Stack & Mobile Developer</h3>
+
+📍 Coatzacoalcos, Veracruz, México
+
+---
+
+### 👨‍💻 About me
+
+Software Engineer (Universidad Veracruzana) with hands-on experience in **Full-Stack development** and **QA**. I build web and mobile apps with **React, React Native, Node.js and Laravel**, work with **PostgreSQL and SQL Server**, and I'm comfortable with Docker, Git and agile teams (Scrum/Kanban).
+
+- 🏭 Built a project management platform (PERN + TypeScript) with interactive Gantt charts and Critical Path (CPM) calculation for a PEMEX provider
+- 🧪 QA Engineer & Full-Stack Developer at **Intekel**: functional testing, Jira reporting, regression tests and Playwright automation
+- 📱 Published two mobile apps on the **App Store**: *Cita Master* and *Macro Scan*
+- ☁️ AWS Cloud Practitioner Essentials certified
+
+---
+
+### 📊 GitHub Stats (public + private)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christian04022003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Christian04022003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://TU-DOMINIO.vercel.app/api?username=Christian04022003&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://TU-DOMINIO.vercel.app/api/top-langs?username=Christian04022003&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
+### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="30" alt="xcode logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,html,css&perline=6" height="35" alt="languages" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,expo&perline=6" height="35" alt="frontend and mobile" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel&perline=6" height="35" alt="backend" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=6" height="35" alt="databases" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,railway,postman,jira,figma,xcode&perline=10" height="35" alt="devops and tools" />
 </div>
 
-###
+> **Testing:** functional testing · test case design · bug reporting · regression testing · Playwright
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Project & Engineering Management System** | Schedule tracking, Gantt charts and critical path (CPM) with custom work calendars | PostgreSQL, Express, React, Node.js, TypeScript |
+| **Cita Master** (App Store) | Appointment scheduling and agenda management app for businesses | React Native, Expo |
+| **Macro Scan** (App Store) | Nutrition tracker with QR scanner, Google OAuth login and cloud sync | React Native, Expo, Firebase, Figma |
+
+---
+
+### 📫 Contact
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <h2 align="left">jair250819@gmail.com</h2>
-
+  <a href="mailto:jair250819@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=jair250819@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+  </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Christian04022003/Christian04022003/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=3" alt="Layout with last medium posts"  />
-</div>
-
-###
